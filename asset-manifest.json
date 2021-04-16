@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://raba-ajeet.github.io/csb-488zb/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://raba-ajeet.github.io/csb-488zb/static/js/main.82a5bf64.chunk.js",
+    "main.js.map": "https://raba-ajeet.github.io/csb-488zb/static/js/main.82a5bf64.chunk.js.map",
+    "runtime-main.js": "https://raba-ajeet.github.io/csb-488zb/static/js/runtime-main.97c0b759.js",
+    "runtime-main.js.map": "https://raba-ajeet.github.io/csb-488zb/static/js/runtime-main.97c0b759.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://raba-ajeet.github.io/csb-488zb/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.aef22c9d.chunk.js": "https://raba-ajeet.github.io/csb-488zb/static/js/2.aef22c9d.chunk.js",
+    "static/js/2.aef22c9d.chunk.js.map": "https://raba-ajeet.github.io/csb-488zb/static/js/2.aef22c9d.chunk.js.map",
+    "index.html": "https://raba-ajeet.github.io/csb-488zb/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://raba-ajeet.github.io/csb-488zb/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "https://raba-ajeet.github.io/csb-488zb/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.aef22c9d.chunk.js.LICENSE.txt": "https://raba-ajeet.github.io/csb-488zb/static/js/2.aef22c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c0b759.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.aef22c9d.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.82a5bf64.chunk.js"
+  ]
+}
